@@ -1,0 +1,32 @@
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.exe.config
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.exe
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.pdb
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.csprojAssemblyReference.cache
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher_Steam.SteamSwitcher.resources
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher_Steam.Properties.Resources.resources
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.csproj.GenerateResource.cache
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.csproj.CoreCompileInputs.cache
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.exe
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.pdb
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.exe.manifest
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.application
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.exe.manifest
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.application
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher_Steam.EditBotones.resources
+D:\Users\Santiago\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Resources\recursos.txt
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Resources\recursos.txt
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.exe.config
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.exe.manifest
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.application
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.exe
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\bin\Debug\Switcher Steam.pdb
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.csprojAssemblyReference.cache
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher_Steam.EditBotones.resources
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher_Steam.SteamSwitcher.resources
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher_Steam.Properties.Resources.resources
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.csproj.GenerateResource.cache
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.csproj.CoreCompileInputs.cache
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.exe.manifest
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.application
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.exe
+D:\Santiago\desarrollo\source\repos\Switcher Steam\Switcher Steam\obj\Debug\Switcher Steam.pdb

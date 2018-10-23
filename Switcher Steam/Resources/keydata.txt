@@ -1,0 +1,47 @@
+ if (keyData == Keys.NumPad1)
+            {
+                funciones.launcher(0);
+                Close();
+                
+                return true;
+            }
+            if (keyData == Keys.NumPad2)
+            {
+                funciones.launcher(1);
+                Close();
+                
+                return true;
+            }
+            if (keyData == Keys.NumPad3)
+            {
+                funciones.launcher(2);
+                Close();
+                
+                return true;
+            }
+            if (keyData == Keys.NumPad4)
+            {
+                funciones.launcher(3);
+                Close();
+                
+                return true;
+            }
+            if (keyData == Keys.NumPad5)
+            {
+                funciones.launcher(4);
+                Close();
+                
+                return true; 
+            }
+            if (keyData == Keys.NumPad6)
+            {
+                funciones.launcher(5);
+                Close();
+            }
+            if (keyData == Keys.NumPad7)
+            {
+                funciones.launcher(6);
+                Close();
+            }
+            return false;
+        }
